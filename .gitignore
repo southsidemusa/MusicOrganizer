@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+venv/
+ENV/
+
+# macOS
+.DS_Store
+._*
+
+# Temp files
+*.log
+*.tmp
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+tagging_results.json
+music_metadata.txt

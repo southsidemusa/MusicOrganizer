@@ -1,0 +1,109 @@
+# Hip-Hop Artists
+HIP-HOP|Kendrick Lamar
+HIP-HOP|Babyface Ray
+HIP-HOP|Slum Village
+HIP-HOP|Common
+HIP-HOP|Busta Rhymes
+HIP-HOP|Camp Lo
+HIP-HOP|Smino
+HIP-HOP|Key! & Kenny Beats
+HIP-HOP|Isaiah Rashad
+HIP-HOP|Al-Doms, Pusha T
+HIP-HOP|Elujay
+HIP-HOP|Madlib
+HIP-HOP|UGK, Outkast
+HIP-HOP|Knxwledge
+HIP-HOP|Larry June
+HIP-HOP|Sada Baby
+HIP-HOP|Anycia
+HIP-HOP|MexikoDro
+HIP-HOP|22Daboat
+HIP-HOP|Veeze
+HIP-HOP|LaRussell
+HIP-HOP|El Londo
+HIP-HOP|JEMS!
+HIP-HOP|Blvck Svm
+HIP-HOP|Cruza
+HIP-HOP|Asha Imuno
+HIP-HOP|AFFA
+HIP-HOP|Flippa T
+HIP-HOP|JXMESC
+HIP-HOP|LAYA
+HIP-HOP|Moody Bank$
+HIP-HOP|Ragz Originale
+HIP-HOP|SOSOCAMO
+HIP-HOP|Leon Thomas
+HIP-HOP|8AE & Smino
+HIP-HOP|Jmsn Feat Sada Baby
+
+# R&B Artists
+R&B|Baby Rose
+R&B|SZA
+R&B|Miguel
+R&B|JMSN
+R&B|Michael Jackson
+R&B|Aretha Franklin
+R&B|Stevie Wonder
+R&B|LL Cool J
+R&B|KAYTRANADA
+R&B|Fatback Band
+R&B|James Tillman
+R&B|Maze
+R&B|Darius
+R&B|WAYNE SNOW
+R&B|Kairee Doty
+R&B|Yemi
+R&B|Colonel Abrams
+R&B|Justice, Tame Impala & KAYTRANADA
+R&B|Gee Lee
+R&B|At One
+R&B|Maribou State
+R&B|Various
+
+# Deep House Artists
+DEEP-HOUSE|Theo Parrish
+DEEP-HOUSE|Moodymann
+DEEP-HOUSE|Dan Kye
+DEEP-HOUSE|Crackazat
+DEEP-HOUSE|Atjazz
+DEEP-HOUSE|Jullian Gomes
+DEEP-HOUSE|Osunlade
+DEEP-HOUSE|JT Donaldson
+DEEP-HOUSE|Nutty Nys
+DEEP-HOUSE|Artwork Sounds
+DEEP-HOUSE|Soulfreakah
+DEEP-HOUSE|SoulFreakah
+DEEP-HOUSE|Jazzanova
+DEEP-HOUSE|Roy Davis Jr
+DEEP-HOUSE|Josh Milan
+DEEP-HOUSE|Louie Vega
+DEEP-HOUSE|Tea White
+DEEP-HOUSE|Eli Escobar
+DEEP-HOUSE|Blackwhole
+DEEP-HOUSE|Dirtytwo
+DEEP-HOUSE|Halo, Atjazz
+DEEP-HOUSE|Giano
+DEEP-HOUSE|LaTique
+DEEP-HOUSE|Buddynice
+DEEP-HOUSE|Rona Ray
+DEEP-HOUSE|Sir LSG
+DEEP-HOUSE|Thabang Phaleng
+DEEP-HOUSE|WaveIQ
+DEEP-HOUSE|Isaac Carter
+DEEP-HOUSE|SuperJazzClub
+DEEP-HOUSE|Envee
+DEEP-HOUSE|D.General
+DEEP-HOUSE|Muzi, Dan Kye
+DEEP-HOUSE|Max Sinàl
+DEEP-HOUSE|Nini Maluks
+
+# House Artists (not Deep House)
+HOUSE|Joy Orbison
+HOUSE|Fred again
+HOUSE|Henry Wu
+HOUSE|Julio Bashmore
+HOUSE|Special Request
+HOUSE|Jayda G
+HOUSE|Tim Reaper
+HOUSE|DJ Marky
+HOUSE|Zoo Look
